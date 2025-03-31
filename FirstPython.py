@@ -1,3 +1,4 @@
+# Second code is here
 sonai = 10
 mithai = 7
 print ("sonai is elder than mithai: ",(sonai>mithai))
