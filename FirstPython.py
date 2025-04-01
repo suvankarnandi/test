@@ -15,3 +15,9 @@ print ( "AND operator :",(val1 and val2))
 #4th code with not operator
 print ("not operator with OR operator :", not (val1 or val2))
 print ("not operator with AND operator :", not (val1 and val2))
+
+#5th code with Conversion 
+salary = int(input ("Take home salary: "))
+expenses = int(input("your per month expenses: "))
+Monthly_Savings = salary - expenses
+print("your monthly savings: ", Monthly_Savings)
