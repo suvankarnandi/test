@@ -9,4 +9,9 @@ print ("Mithai age is 7Yrs. then what is the age of Sonai ?",
 #3rd code is here
 val1 = True
 val2 = False
-print ( val1 or val2)
+print ( "OR operator :",(val1 or val2))
+print ( "AND operator :",(val1 and val2))
+
+#4th code with not operator
+print ("not operator with OR operator :", not (val1 or val2))
+print ("not operator with AND operator :", not (val1 and val2))
