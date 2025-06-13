@@ -1,8 +1,8 @@
-# Second cahpter in Python
-name = str(input("what is your name : "))
+# # Second cahpter in Python
+# name = str(input("what is your name : "))
 
-print(name, len(name))
-print(name.count("a"))
+# print(name, len(name))
+# print(name.count("a"))
 
 # Conditional Statement
 exp = int(input("how much exp. in Networking: "))
@@ -20,10 +20,10 @@ else:
 
 print(Designation)
 
-num = 1
+# num = 1
 
-while num <=99:
-    num += 1
-    print (num)
+# while num <=99:
+#     num += 1
+#     print (num)
 
-print (num)
+# print (num)
