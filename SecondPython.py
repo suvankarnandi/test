@@ -19,3 +19,11 @@ else:
     Designation = "Sorry, you are not eligible"
 
 print(Designation)
+
+num = 1
+
+while num <=99:
+    num += 1
+    print (num)
+
+print (num)
