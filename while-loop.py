@@ -43,20 +43,29 @@
 # for value in nums:
 #     print(value)
 
-roll =(5, 8, 7, 85, 58, 75, 57,)
+# roll =(5, 8, 7, 85, 58, 75, 57,)
 
-XX = int(input("what is your roll N0. :"))
+# XX = int(input("what is your roll N0. :"))
 
-i = 0
+# i = 0
 
-for el in roll:
-    if (el == XX):
-        print("you are pass and rank:", i)
-        break
-    i += 1
-else:
-    print("sorry, you are fail.")
-        
+# for el in roll:
+#     if (el == XX):
+#         print("you are pass and rank:", i)
+#         break
+#     i += 1
+# else:
+#     print("sorry, you are fail.")
+
+
+# for i in range(100, 0, -1):
+#     print(i)
+
+n = int(input("enter number: "))
+
+for i in range(1, 11):
+    print(n * i)
+
 
 
 
